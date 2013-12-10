@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/item_p"
+    android:padding="6dip" >
+
+    <TextView
+        android:id="@+id/title"
+		android:layout_centerInParent="true"
+        style="@style/txt_app_title_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="移动日记" />
+
+    <ImageButton
+        android:layout_marginRight="10dip"
+		android:layout_alignParentRight="true"
+        android:background="@drawable/imgbtn"
+        android:id="@+id/imageBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+</RelativeLayout>

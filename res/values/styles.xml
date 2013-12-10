@@ -1,0 +1,17 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="@android:style/Theme.Light.NoTitleBar"></style>
+    <!-- 导航栏文字 -->
+    <style name="txt_app_title_style">
+        <item name="android:textColor">#ffffffff</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">30dip</item>
+        <item name="android:shadowColor">#0F4689</item>
+        <item name="android:shadowDx">1</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">3</item>
+    </style>
+
+</resources>
