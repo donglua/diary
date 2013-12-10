@@ -1,0 +1,2 @@
+#Andoid移动日记
+学习Android时写的一个作业，使用sqlite数据库
